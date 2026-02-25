@@ -1,5 +1,4 @@
 # **Atividade**
 ## Fundamentos para Engenharia de Software
-- Criar pasta
-- pipipi
-- pópópó
+- Criação de Repositório
+- Clonagem
